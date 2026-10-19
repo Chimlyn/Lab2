@@ -13,4 +13,4 @@
 - QualApply：职称资格申请
 
 ## 分支说明
-代码存放分支：lab2-uml-design
+代码存放分支：Main
